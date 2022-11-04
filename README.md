@@ -2,10 +2,10 @@
 Profile Cristian Cerda, Portfolio, CV.
 
 ESPAÑOL
-Hola!! yo soy cristian, formado en el area de tecnologia, especializado en programación web, en lenguajes como HTML, CSS y JAVASCRIPT.
+Hola!! yo soy cristian, formado en el area de tecnologia, especializado en programación, en lenguajes como HTML, CSS y JAVASCRIPT, PYTHON.
 
 ENGLISH
-Hello!! i am cristian, 
+Hello!! I am a Christian, trained in the area of ​​technology, specialized in programming, in languages ​​such as HTML, CSS and JAVASCRIPT, PYTHON.
 
 
 
